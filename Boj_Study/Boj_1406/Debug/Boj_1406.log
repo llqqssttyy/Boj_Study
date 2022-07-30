@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\user\source\repos\Boj_Study\Boj_1406\소스.cpp(24,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Boj_1406.vcxproj -> C:\Users\user\source\repos\Boj_Study\Debug\Boj_1406.exe
